@@ -1,4 +1,4 @@
-# 🔗 LinkUtil - Todas as Ferramentas em um Só Lugar  
+# 🔗 LinkUtil 
 
 LinkUtil é uma extensão e aplicativo que centraliza **ferramentas úteis**, desde inteligência artificial até utilitários de produtividade, downloads e muito mais! 🚀  
 
