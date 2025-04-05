@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "LinkUtil",
+  "author": "Leonel Miguins",
+  "version": "1.0",
+  "description": "Todas as ferramentas em um só lugar",
+  "icons": {
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["tabs", "windows", "system.display"],
+  "host_permissions": ["https://raw.githubusercontent.com/*"],
+  "action": {
+    "default_title": "Abrir LinkUtil",
+    "default_popup": "index.html"
+  }
+}
