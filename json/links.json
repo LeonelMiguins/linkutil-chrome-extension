@@ -1,1 +1,172 @@
+{
+"ia": [
 
+    {
+        "nome": "Kling",
+        "icone": "https://p2-kling.klingai.com/kcdn/cdn-kcdn112452/kling-web-aio-prod_aio/favicon.ico",
+        "link": "https://app.klingai.com/global/",
+        "descricao": "Dublagem e clonagem de voz com IA."
+    },
+    {
+        "nome": "Piclumen",
+        "icone": "https://www.piclumen.com/wp-content/themes/piclumen/assets/build/images/favicon.svg",
+        "link": "https://www.piclumen.com/",
+        "descricao": "Criação de vídeos com IA."
+    },
+    {
+        "nome": "Hailuo",
+        "icone": "https://hailuoai.video/assets/logo/favicon.png",
+        "link": "https://hailuoai.video/",
+        "descricao": "Geração de avatares digitais."
+    },
+    {
+        "nome": "Dzine",
+        "icone": "https://static.dzine.ai/g-favicon-d.ico",
+        "link": "https://www.dzine.ai/home",
+        "descricao": "Criação de personagens com IA."
+    },
+    {
+        "nome": "Vidu",
+        "icone": "https://www.vidu.com/logo.svg",
+        "link": "https://www.vidu.com/",
+        "descricao": "Animação de personagens."
+    },
+    {
+        "nome": "Pixelverse",
+        "icone": "https://cdn.pixverse.ai/app/app-pixverse/favicon-pixverse.svg",
+        "link": "https://app.pixverse.ai/home",
+        "descricao": "Edição de imagens com IA."
+    },
+    {
+        "nome": "Krea",
+        "icone": "https://www.krea.ai/favicon/favicon-64.png",
+        "link": "https://www.krea.ai/",
+        "descricao": "Criação de imagens digitais."
+    },
+    {
+        "nome": "Riff Fusion",
+        "icone": "https://www.riffusion.com/apple-touch-icon.png",
+        "link": "https://www.riffusion.com/",
+        "descricao": "Criação de músicas com IA."
+    },
+    {
+        "nome": "RubbrBand",
+        "icone": "https://www.rubbrband.com/favicon.ico",
+        "link": "https://www.rubbrband.com/",
+        "descricao": "Geração de vídeos e imagens."
+    },
+    {
+        "nome": "Elleven Labs",
+        "icone": "https://elevenlabs.io/favicon.ico",
+        "link": "https://elevenlabs.io/",
+        "descricao": "Voz realista para vídeos."
+    },
+    {
+        "nome": "Udio",
+        "icone": "https://www.udio.com/favicon.ico",
+        "link": "https://www.udio.com/",
+        "descricao": "Criação de músicas e trilhas Sonoras."
+    },
+        {
+        "nome": "LTX Studio",
+        "icone": "https://app.ltx.studio/favicon.png",
+        "link": "https://app.ltx.studio/",
+        "descricao": "Criação de filmes completos"
+    }
+],
+
+"torrent": [
+
+    {
+      "nome": "Rei Dos Torrents",
+      "descricao": "Site de torrents com filmes, jogos e mais.",
+      "icone": "https://reidostorrents.com/wp-content/uploads/2018/01/Coroa-Nova.png",
+      "link": "https://reidostorrents.com/"
+    },
+    {
+      "nome": "The Pirate Bay",
+      "descricao": "Site de torrents com filmes, jogos e mais.",
+      "icone": "https://torrindex.net/images/tpb.jpg",
+      "link": "https://thepiratebay.org/index.html"
+    },
+    {
+        "nome": "Torrent Jogos",
+        "descricao": "Site de torrents com jogos.",
+        "icone": "https://www.torrentjogos.com.br/imagem/favicon-48x48.ico",
+        "link": "https://www.torrentjogos.com.br/"
+    },
+    {
+        "nome": "Aqui Downloads",
+        "descricao": "Site de torrents com jogos.",
+        "icone": "https://aquidownloads.com.br/wp-content/uploads/2023/03/favicon_AquiDownloads3.png",
+        "link": "https://aquidownloads.com.br/"
+    },
+    {
+        "nome": "Steam GG",
+        "descricao": "Site de torrents com jogos.",
+        "icone": "https://steamgg.net/wp-content/uploads/2014/02/cropped-result-1-180x180.png",
+        "link": "https://steamgg.net/"
+    }
+],
+
+"util": [
+    {
+        "nome": "Temp Email",
+        "icone": "https://temp-mail.org/images/favicon.ico",
+        "link": "https://temp-mail.org/pt/",
+        "descricao": "E-mails temporários para usar em IAs"
+    },
+    {
+      "nome": "Yt1d",
+      "descricao": "Baixe vídeos do youTube para MP3 e MP4.",
+      "icone": "https://yt1d.com/theme/ssyoutube/pic/logo.png",
+      "link": "https://yt1d.com/pt203/"
+    },
+    {
+      "nome": "FDownloader",
+      "descricao": "Baixe vídeos do Reels do Facebook",
+      "icone": "https://fdownloader.net/icons/favicon-32x32.png",
+      "link": "https://fdownloader.net/pt/facebook-reels-downloader"
+    },
+    {
+        "nome": "Remove BG",
+        "descricao": "Removedor de fundo de imagem",
+        "icone": "https://www.remove.bg/favicon-32x32.png?v=fc0bfce6e1310f1539afec9729716721",
+        "link": "https://www.remove.bg/pt-br/upload"
+    },
+    {
+        "nome": "Canva",
+        "descricao": "Ferramenta completa de designer visual",
+        "icone": "https://static.canva.com/static/images/apple-touch-120x120-1.png",
+        "link": "https://www.canva.com/"
+    },
+    {
+        "nome": "SSSinstagram",
+        "descricao": "Download de reels, videos e fotos do isntagram",
+        "icone": "https://sssinstagram.com/favicon/favicon-48x48.png",
+        "link": "https://sssinstagram.com/pt/reels-downloader"
+    },
+        {
+        "nome": "Telegram Web",
+        "descricao": "Versão web sem precisar Instalar",
+        "icone": "https://web.telegram.org/k/assets/img/android-chrome-192x192.png?v=jw3mK7G9Ry",
+        "link": "https://web.telegram.org/k/"
+    }
+],
+    "Entretenimento": [
+    {
+        "nome": "Vision Cine",
+        "icone": "https://visioncine-1.com.br/temas/pixer/assets/img/icon.png",
+        "link": "https://visioncine-1.com.br/",
+        "descricao": "Filmes, séries, animes e doramas."
+    },
+            {
+        "nome": "Wei Fansub",
+        "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvMaFvAwolYSHYC8kW2qpcJYGbKEqqWKxfQ&s",
+        "link": "https://weifansub.com.br/",
+        "descricao": "Downlaod de séries e filmes asiáticos."
+    }
+    ]
+}
+
+  
