@@ -7,7 +7,7 @@ LinkUtil é uma extensão e aplicativo que centraliza **ferramentas úteis**, de
 ## 📥 Download (V 1.0 - 05/04/25)
 
 
-- 🧩 [**Extensão para Chrome**](https://github.com/LeonelMiguins/linkutil/raw/refs/heads/main/downloads/linkutil-chrome-extension.zip)  
+- 🧩 [**Extensão para Chrome**](https://github.com/LeonelMiguins/linkutil/raw/refs/heads/main/dist/linkutil-chrome-extension.zip)
 
 
 ---
