@@ -1,6 +1,6 @@
 # 🔗 LinkUtil 
 
-LinkUtil é uma extensão e aplicativo que centraliza **ferramentas úteis**, desde inteligência artificial até utilitários de produtividade, downloads e muito mais! 🚀  
+LinkUtil é uma extensão do chrome que centraliza **ferramentas úteis**, desde inteligência artificial até utilitários de produtividade, downloads e muito mais! 🚀  
 
 ---
 
