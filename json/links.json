@@ -94,6 +94,18 @@
         "descricao": "Download do Photoshop 22 Free.",
         "icone": "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg",
         "link": "https://www.mediafire.com/file/ub3wgj7xic5tk5j/Photoshop_2022.rar/file"
+    },
+    {
+        "nome": "Pack Edição Vídeo",
+        "descricao": "Pack de 7GB para edição de vídeos.",
+        "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
+        "link": "https://www.mediafire.com/file/qbga2w3tq0d9f71/PACK_DE_EDI%25C3%2587%25C3%2582O_iGust.rar/file"
+    },
+    {
+        "nome": "Pack Edição Thumbnail",
+        "descricao": "Pack de elementos para edição de Thumbnail",
+        "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
+        "link": "https://www.mediafire.com/file/d4gieb16rcq4nhp/Thumbnail_Pack.rar/file"
     }
 ],
 
