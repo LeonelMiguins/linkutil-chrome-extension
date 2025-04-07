@@ -1,5 +1,5 @@
 {
-"ia": [
+"ias": [
 
     {
         "nome": "Kling",
@@ -44,30 +44,12 @@
         "descricao": "Criação de imagens digitais."
     },
     {
-        "nome": "Riff Fusion",
-        "icone": "https://www.riffusion.com/apple-touch-icon.png",
-        "link": "https://www.riffusion.com/",
-        "descricao": "Criação de músicas com IA."
-    },
-    {
         "nome": "RubbrBand",
         "icone": "https://www.rubbrband.com/favicon.ico",
         "link": "https://www.rubbrband.com/",
         "descricao": "Geração de vídeos e imagens."
     },
     {
-        "nome": "Elleven Labs",
-        "icone": "https://elevenlabs.io/favicon.ico",
-        "link": "https://elevenlabs.io/",
-        "descricao": "Voz realista para vídeos."
-    },
-    {
-        "nome": "Udio",
-        "icone": "https://www.udio.com/favicon.ico",
-        "link": "https://www.udio.com/",
-        "descricao": "Criação de músicas e trilhas Sonoras."
-    },
-        {
         "nome": "LTX Studio",
         "icone": "https://app.ltx.studio/favicon.png",
         "link": "https://app.ltx.studio/",
@@ -75,7 +57,7 @@
     }
 ],
 
-"torrent": [
+"download": [
 
     {
       "nome": "Rei Dos Torrents",
@@ -106,10 +88,16 @@
         "descricao": "Site de torrents com jogos.",
         "icone": "https://steamgg.net/wp-content/uploads/2014/02/cropped-result-1-180x180.png",
         "link": "https://steamgg.net/"
+    },
+    {
+        "nome": "Photoshop 22",
+        "descricao": "Download do Photoshop 22 Free.",
+        "icone": "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg",
+        "link": "https://www.mediafire.com/file/ub3wgj7xic5tk5j/Photoshop_2022.rar/file"
     }
 ],
 
-"util": [
+"utilitarios": [
     {
         "nome": "Temp Email",
         "icone": "https://temp-mail.org/images/favicon.ico",
@@ -117,17 +105,29 @@
         "descricao": "E-mails temporários para usar em IAs"
     },
     {
-      "nome": "Yt1d",
-      "descricao": "Baixe vídeos do youTube para MP3 e MP4.",
-      "icone": "https://yt1d.com/theme/ssyoutube/pic/logo.png",
-      "link": "https://yt1d.com/pt203/"
+        "nome": "Yt1d",
+        "descricao": "Baixe vídeos do youTube para MP3 e MP4.",
+        "icone": "https://yt1d.com/theme/ssyoutube/pic/logo.png",
+        "link": "https://yt1d.com/pt203/"
     },
     {
-      "nome": "FDownloader",
-      "descricao": "Baixe vídeos do Reels do Facebook",
-      "icone": "https://fdownloader.net/icons/favicon-32x32.png",
-      "link": "https://fdownloader.net/pt/facebook-reels-downloader"
+        "nome": "FDownloader",
+        "descricao": "Baixe vídeos do Reels do Facebook",
+        "icone": "https://fdownloader.net/icons/favicon-32x32.png",
+        "link": "https://fdownloader.net/pt/facebook-reels-downloader"
     },
+    {
+        "nome": "Google Docs",
+        "descricao": "Word, Excel e PowerPoint gratuitos!",
+        "icone": "https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico",
+        "link": "https://docs.google.com/"
+    },
+    {
+        "nome": "Ideogram",
+        "descricao": "Gerador de thumbnail",
+        "icone": "https://ideogram.ai/favicon.png",
+        "link": "https://ideogram.ai/t/explore"
+      },
     {
         "nome": "Remove BG",
         "descricao": "Removedor de fundo de imagem",
@@ -146,26 +146,67 @@
         "icone": "https://sssinstagram.com/favicon/favicon-48x48.png",
         "link": "https://sssinstagram.com/pt/reels-downloader"
     },
-        {
+    {
+        "nome": "Gerador de Currículo",
+        "descricao": "Crie lindos currículos gratuitos.",
+        "icone": "https://sssinstagram.com/favicon/favicon-48x48.png",
+        "link": "https://www.todacarreira.com/gerador-de-curriculo/"
+    },
+    {
+        "nome": "Flaticon",
+        "descricao": "Ícones para edição de imagens ou vídeo",
+        "icone": "https://media.flaticon.com/dist/min/img/favicon.ico",
+        "link": "https://www.flaticon.com/br/"
+    },
+    {
         "nome": "Telegram Web",
         "descricao": "Versão web sem precisar Instalar",
         "icone": "https://web.telegram.org/k/assets/img/android-chrome-192x192.png?v=jw3mK7G9Ry",
         "link": "https://web.telegram.org/k/"
     }
 ],
-    "Entretenimento": [
+
+    "entretenimento": [
     {
         "nome": "Vision Cine",
         "icone": "https://visioncine-1.com.br/temas/pixer/assets/img/icon.png",
         "link": "https://visioncine-1.com.br/",
         "descricao": "Filmes, séries, animes e doramas."
     },
-            {
+    {
         "nome": "Wei Fansub",
         "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvMaFvAwolYSHYC8kW2qpcJYGbKEqqWKxfQ&s",
         "link": "https://weifansub.com.br/",
         "descricao": "Downlaod de séries e filmes asiáticos."
     }
+    ],
+
+    "audio": [
+    {
+        "nome": "Riff Fusion",
+        "icone": "https://www.riffusion.com/apple-touch-icon.png",
+        "link": "https://www.riffusion.com/",
+        "descricao": "Criação de músicas com IA."
+    },
+    {
+        "nome": "Udio",
+        "icone": "https://www.udio.com/favicon.ico",
+        "link": "https://www.udio.com/",
+        "descricao": "Criação de músicas e trilhas Sonoras."
+    },
+    {
+        "nome": "Elleven Labs",
+        "icone": "https://elevenlabs.io/favicon.ico",
+        "link": "https://elevenlabs.io/",
+        "descricao": "Voz realista para vídeos."
+    },
+    {
+        "nome": "Suno",
+        "icone": "https://suno.com/favicon.ico",
+        "link": "https://suno.com/home",
+        "descricao": "Criação de músicas com IA."
+    }
+
     ]
 }
 
