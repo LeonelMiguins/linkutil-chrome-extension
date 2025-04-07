@@ -1,5 +1,5 @@
 async function loadCategory(category) {
-    const res = await fetch('https://raw.githubusercontent.com/LeonelMiguins/linkutil/refs/heads/main/json/links.json');
+    const res = await fetch('https://raw.githubusercontent.com/LeonelMiguins/linkutil-chrome-extension/refs/heads/main/json/links.json');
     const data = await res.json();
     const list = data[category] || [];
   
@@ -18,11 +18,12 @@ async function loadCategory(category) {
   }
   
   document.addEventListener('DOMContentLoaded', () => {
-    document.getElementById('btnIa').addEventListener('click', () => loadCategory('ia'));
-    document.getElementById('btnTorrent').addEventListener('click', () => loadCategory('torrent'));
-    document.getElementById('btnUtil').addEventListener('click', () => loadCategory('util'));
-    document.getElementById('btnEntret').addEventListener('click', () => loadCategory('Entretenimento'));
+    document.getElementById('btnIas').addEventListener('click', () => loadCategory('ias'));
+    document.getElementById('btnDownloads').addEventListener('click', () => loadCategory('download'));
+    document.getElementById('btnUtil').addEventListener('click', () => loadCategory('utilitarios'));
+    document.getElementById('btnEntret').addEventListener('click', () => loadCategory('entretenimento'));
+    document.getElementById('btnAudio').addEventListener('click', () => loadCategory('audio'));
   
-    loadCategory('ia'); // Carrega a categoria padrão
+    loadCategory('ias'); // Carrega a categoria padrão
   });
   
