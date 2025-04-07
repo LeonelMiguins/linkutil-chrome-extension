@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "LinkUtil",
   "author": "Leonel Miguins",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Todas as ferramentas em um só lugar",
   "icons": {
     "16": "icons/icon.png",

@@ -1,32 +1,23 @@
-# 🔗 LinkUtil 
+# 🔗 LinkUtil - Todas as Ferramentas em um Só Lugar  
 
-LinkUtil é uma extensão do chrome que centraliza **ferramentas úteis**, desde inteligência artificial até utilitários de produtividade, downloads e muito mais! 🚀  
-
----
-
-## 📥 Download (V 1.0 - 05/04/25)
-
-
-- 🧩 [**Extensão para Chrome**](https://github.com/LeonelMiguins/linkutil/raw/refs/heads/main/dist/linkutil-chrome-extension.zip)
-
+LinkUtil é uma extensão e aplicativo que centraliza **ferramentas úteis**, desde inteligência artificial até utilitários de produtividade, downloads e muito mais! 🚀  
 
 ---
 
-## 🛠️ Instalação da Extensão Chrome  
+## 📥 Download (V 2.0 - 07/04/25)
+
+
+- 🧩 [**Extensão para Chrome**](https://github.com/LeonelMiguins/linkutil/raw/refs/heads/main/downloads/linkutil-chrome-extension.zip)  
+
+---
+
+## 🛠️ Instalação 
 
 1. Baixe o arquivo `.zip` da extensão.
 2. Extraia em uma pasta de sua preferência. 
 2. Vá até `chrome://extensions/`  
 3. Ative o **Modo Desenvolvedor**  
 4. Clique em **"Carregar sem compactação"** e selecione a pasta do projeto.
-
----
-
-## 🚀 Como Usar  
-
-1. Clique no ícone da extensão ou abra o app  
-2. Escolha uma **categoria** (IA, Torrent, Util, etc.)  
-3. Clique na ferramenta desejada para acessá-la  
 
 ---
 
