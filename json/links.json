@@ -1,113 +1,110 @@
 {
-"ias": [
-
-    {
+    "video": [
+      {
+        "nome": "Capcut",
+        "icone": "https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/common/images/lv_web.ico",
+        "link": "https://www.capcut.com/",
+        "descricao": "Editor de video online"
+      },
+      {
+        "nome": "Pixelverse",
+        "icone": "https://cdn.pixverse.ai/app/app-pixverse/favicon-pixverse.svg",
+        "link": "https://app.pixverse.ai/home",
+        "descricao": "Transforma imagens em vídeo."
+      },
+      {
+        "nome": "Pexels",
+        "icone": "https://www.pexels.com/assets/static/images/meta/favicon.ico",
+        "link": "https://www.pexels.com/pt-br/",
+        "descricao": "Imagens e vídeos livres de corpright."
+      },
+      {
         "nome": "Kling",
         "icone": "https://p2-kling.klingai.com/kcdn/cdn-kcdn112452/kling-web-aio-prod_aio/favicon.ico",
         "link": "https://app.klingai.com/global/",
         "descricao": "Dublagem e clonagem de voz com IA."
-    },
-    {
-        "nome": "Piclumen",
-        "icone": "https://www.piclumen.com/wp-content/themes/piclumen/assets/build/images/favicon.svg",
-        "link": "https://www.piclumen.com/",
-        "descricao": "Criação de vídeos com IA."
-    },
-    {
+      },
+      {
         "nome": "Hailuo",
         "icone": "https://hailuoai.video/assets/logo/favicon.png",
         "link": "https://hailuoai.video/",
         "descricao": "Geração de avatares digitais."
-    },
-    {
+      },
+      {
         "nome": "Dzine",
         "icone": "https://static.dzine.ai/g-favicon-d.ico",
         "link": "https://www.dzine.ai/home",
         "descricao": "Criação de personagens com IA."
-    },
-    {
+      },
+      {
         "nome": "Vidu",
         "icone": "https://www.vidu.com/logo.svg",
         "link": "https://www.vidu.com/",
         "descricao": "Animação de personagens."
-    },
-    {
-        "nome": "Pixelverse",
-        "icone": "https://cdn.pixverse.ai/app/app-pixverse/favicon-pixverse.svg",
-        "link": "https://app.pixverse.ai/home",
-        "descricao": "Edição de imagens com IA."
-    },
-    {
-        "nome": "Krea",
-        "icone": "https://www.krea.ai/favicon/favicon-64.png",
-        "link": "https://www.krea.ai/",
-        "descricao": "Criação de imagens digitais."
-    },
-    {
-        "nome": "RubbrBand",
-        "icone": "https://www.rubbrband.com/favicon.ico",
-        "link": "https://www.rubbrband.com/",
-        "descricao": "Geração de vídeos e imagens."
-    },
-    {
+      },
+      {
         "nome": "LTX Studio",
         "icone": "https://app.ltx.studio/favicon.png",
         "link": "https://app.ltx.studio/",
         "descricao": "Criação de filmes completos"
-    }
-],
-
-"download": [
-
-    {
-      "nome": "Rei Dos Torrents",
-      "descricao": "Site de torrents com filmes, jogos e mais.",
-      "icone": "https://reidostorrents.com/wp-content/uploads/2018/01/Coroa-Nova.png",
-      "link": "https://reidostorrents.com/"
+      }
+    ],
+    "download": {
+      "torrent": [
+        {
+          "nome": "Rei Dos Torrents",
+          "descricao": "Site de torrents com filmes, jogos e mais.",
+          "icone": "https://reidostorrents.com/wp-content/uploads/2018/01/Coroa-Nova.png",
+          "link": "https://reidostorrents.com/"
+        },
+        {
+          "nome": "The Pirate Bay",
+          "descricao": "Site de torrents com filmes, jogos e mais.",
+          "icone": "https://torrindex.net/images/tpb.jpg",
+          "link": "https://thepiratebay.org/index.html"
+        },
+        {
+          "nome": "Torrent Jogos",
+          "descricao": "Site de torrents com jogos.",
+          "icone": "https://www.torrentjogos.com.br/imagem/favicon-48x48.ico",
+          "link": "https://www.torrentjogos.com.br/"
+        },
+        {
+          "nome": "Aqui Downloads",
+          "descricao": "Site de torrents com jogos.",
+          "icone": "https://aquidownloads.com.br/wp-content/uploads/2023/03/favicon_AquiDownloads3.png",
+          "link": "https://aquidownloads.com.br/"
+        },
+        {
+          "nome": "Steam GG",
+          "descricao": "Site de torrents com jogos.",
+          "icone": "https://steamgg.net/wp-content/uploads/2014/02/cropped-result-1-180x180.png",
+          "link": "https://steamgg.net/"
+        }
+      ],
+      "programas": [
+        {
+          "nome": "Photoshop 22",
+          "descricao": "Download do Photoshop 22 Free.",
+          "icone": "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg",
+          "link": "https://www.mediafire.com/file/ub3wgj7xic5tk5j/Photoshop_2022.rar/file"
+        }
+      ],
+      "packs": [
+        {
+          "nome": "Pack Edição Vídeo",
+          "descricao": "Pack de 7GB para edição de vídeos.",
+          "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
+          "link": "https://www.mediafire.com/file/qbga2w3tq0d9f71/PACK_DE_EDI%25C3%2587%25C3%2582O_iGust.rar/file"
+        },
+        {
+          "nome": "Pack Edição Thumbnail",
+          "descricao": "Pack de elementos para edição de Thumbnail",
+          "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
+          "link": "https://www.mediafire.com/file/d4gieb16rcq4nhp/Thumbnail_Pack.rar/file"
+        }
+      ]
     },
-    {
-      "nome": "The Pirate Bay",
-      "descricao": "Site de torrents com filmes, jogos e mais.",
-      "icone": "https://torrindex.net/images/tpb.jpg",
-      "link": "https://thepiratebay.org/index.html"
-    },
-    {
-        "nome": "Torrent Jogos",
-        "descricao": "Site de torrents com jogos.",
-        "icone": "https://www.torrentjogos.com.br/imagem/favicon-48x48.ico",
-        "link": "https://www.torrentjogos.com.br/"
-    },
-    {
-        "nome": "Aqui Downloads",
-        "descricao": "Site de torrents com jogos.",
-        "icone": "https://aquidownloads.com.br/wp-content/uploads/2023/03/favicon_AquiDownloads3.png",
-        "link": "https://aquidownloads.com.br/"
-    },
-    {
-        "nome": "Steam GG",
-        "descricao": "Site de torrents com jogos.",
-        "icone": "https://steamgg.net/wp-content/uploads/2014/02/cropped-result-1-180x180.png",
-        "link": "https://steamgg.net/"
-    },
-    {
-        "nome": "Photoshop 22",
-        "descricao": "Download do Photoshop 22 Free.",
-        "icone": "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg",
-        "link": "https://www.mediafire.com/file/ub3wgj7xic5tk5j/Photoshop_2022.rar/file"
-    },
-    {
-        "nome": "Pack Edição Vídeo",
-        "descricao": "Pack de 7GB para edição de vídeos.",
-        "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
-        "link": "https://www.mediafire.com/file/qbga2w3tq0d9f71/PACK_DE_EDI%25C3%2587%25C3%2582O_iGust.rar/file"
-    },
-    {
-        "nome": "Pack Edição Thumbnail",
-        "descricao": "Pack de elementos para edição de Thumbnail",
-        "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
-        "link": "https://www.mediafire.com/file/d4gieb16rcq4nhp/Thumbnail_Pack.rar/file"
-    }
-],
 
 "utilitarios": [
     {
@@ -135,22 +132,10 @@
         "link": "https://docs.google.com/"
     },
     {
-        "nome": "Ideogram",
-        "descricao": "Gerador de thumbnail",
-        "icone": "https://ideogram.ai/favicon.png",
-        "link": "https://ideogram.ai/t/explore"
-      },
-    {
         "nome": "Remove BG",
         "descricao": "Removedor de fundo de imagem",
         "icone": "https://www.remove.bg/favicon-32x32.png?v=fc0bfce6e1310f1539afec9729716721",
         "link": "https://www.remove.bg/pt-br/upload"
-    },
-    {
-        "nome": "Canva",
-        "descricao": "Ferramenta completa de designer visual",
-        "icone": "https://static.canva.com/static/images/apple-touch-120x120-1.png",
-        "link": "https://www.canva.com/"
     },
     {
         "nome": "SSSinstagram",
@@ -163,18 +148,6 @@
         "descricao": "Crie lindos currículos gratuitos.",
         "icone": "https://sssinstagram.com/favicon/favicon-48x48.png",
         "link": "https://www.todacarreira.com/gerador-de-curriculo/"
-    },
-    {
-        "nome": "Flaticon",
-        "descricao": "Ícones para edição de imagens ou vídeo",
-        "icone": "https://media.flaticon.com/dist/min/img/favicon.ico",
-        "link": "https://www.flaticon.com/br/"
-    },
-    {
-        "nome": "Telegram Web",
-        "descricao": "Versão web sem precisar Instalar",
-        "icone": "https://web.telegram.org/k/assets/img/android-chrome-192x192.png?v=jw3mK7G9Ry",
-        "link": "https://web.telegram.org/k/"
     }
 ],
 
@@ -217,9 +190,60 @@
         "icone": "https://suno.com/favicon.ico",
         "link": "https://suno.com/home",
         "descricao": "Criação de músicas com IA."
+    },
+    {
+        "nome": "Moises",
+        "icone": "https://storage.googleapis.com/moises-cms/favicon_32x32_95bd3a286e/favicon_32x32_95bd3a286e.png",
+        "link": "https://moises.ai/pt/",
+        "descricao": "Remova vocais e instrumentos de qualquer música."
+    },
+    {
+        "nome": "Myinstants",
+        "icone": "https://www.myinstants.com/media/apple-touch-icon-76x76.png",
+        "link": "https://www.myinstants.com/pt/index/br/",
+        "descricao": "Biblioteca gratuita de efeitos sonoros."
     }
 
-    ]
+],
+   "imagem": [
+    {
+        "nome": "Flaticon",
+        "descricao": "Ícones para edição de imagens ou vídeo",
+        "icone": "https://media.flaticon.com/dist/min/img/favicon.ico",
+        "link": "https://www.flaticon.com/br/"
+    },
+    {
+        "nome": "Canva",
+        "descricao": "Editor de imagens online",
+        "icone": "https://static.canva.com/static/images/apple-touch-120x120-1.png",
+        "link": "https://www.canva.com/"
+    },
+    {
+        "nome": "Ideogram",
+        "descricao": "criador de thumbnail para youtube",
+        "icone": "https://ideogram.ai/favicon.png",
+        "link": "https://ideogram.ai/t/explore"
+    },
+    {
+        "nome": "Piclumen",
+        "icone": "https://www.piclumen.com/wp-content/themes/piclumen/assets/build/images/favicon.svg",
+        "link": "https://www.piclumen.com/",
+        "descricao": "Converta texto em imagens sem esforço"
+    },
+    {
+        "nome": "RubbrBand",
+        "icone": "https://www.rubbrband.com/favicon.ico",
+        "link": "https://www.rubbrband.com/",
+        "descricao": "Geração de vídeos e imagens grátis."
+    },
+    {
+        "nome": "Krea",
+        "icone": "https://www.krea.ai/favicon/favicon-64.png",
+        "link": "https://www.krea.ai/",
+        "descricao": "Criação de imagens digitais."
+    }
+]
+
 }
 
   
