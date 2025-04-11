@@ -1,32 +1,39 @@
 [
 
       {
+        "nome": "Leonardo IA",
+        "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2VKdvsyF9U-401ioSDGsYO6-gTpcikctTw&s",
+        "url": "https://app.leonardo.ai/",
+        "descricao": "Criação de imagens digitais.",
+        "tags": ["imagem","ia"]
+      },
+      {
         "nome": "Capcut",
         "icone": "https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/common/images/lv_web.ico",
         "url": "https://www.capcut.com/",
         "descricao": "Editor de vídeo online",
-        "tags": ["vídeo", "utilitário", "edição","youtube"]
+        "tags": ["vídeo","utilitário","edição","youtube"]
       },
       {
         "nome": "Pixelverse",
         "icone": "https://cdn.pixverse.ai/app/app-pixverse/favicon-pixverse.svg",
         "url": "https://app.pixverse.ai/home",
         "descricao": "Transforma imagens em vídeo.",
-        "tags": ["vídeo", "ia", "imagem"]
+        "tags": ["vídeo","ia","imagem"]
       },
       {
         "nome": "Pexels",
         "icone": "https://www.pexels.com/assets/static/images/meta/favicon.ico",
         "url": "https://www.pexels.com/pt-br/",
         "descricao": "Imagens e vídeos livres de corpright.",
-        "tags": ["vídeo", "Imagem"]
+        "tags": ["vídeo","Imagem"]
       },
       {
         "nome": "Kling",
         "icone": "https://p2-kling.klingai.com/kcdn/cdn-kcdn112452/kling-web-aio-prod_aio/favicon.ico",
         "url": "https://app.klingai.com/global/",
         "descricao": "Dublagem e clonagem de voz com IA.",
-        "tags": ["vídeo", "ia"]
+        "tags": ["vídeo","ia"]
       },
       {
         "nome": "Hailuo",
@@ -54,7 +61,7 @@
         "icone": "https://app.ltx.studio/favicon.png",
         "url": "https://app.ltx.studio/",
         "descricao": "Criação de filmes completos",
-        "tags": ["vídeo", "ia"]
+        "tags": ["vídeo","ia"]
       },
 
         {
@@ -93,11 +100,18 @@
           "tags": ["download", "torrent", "jogos"]
         },
         {
-          "nome": "Photoshop 22",
+          "nome": "Photoshop 22 [pro]",
           "descricao": "Download do Photoshop 22 Free.",
           "icone": "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg",
           "url": "https://www.mediafire.com/file/ub3wgj7xic5tk5j/Photoshop_2022.rar/file",
           "tags": ["imagem", "edição", "programa","download"]
+        },
+              {
+          "nome": "Wondershare Filmora 14 [pro]",
+          "descricao": "Download do Wondershare Filmora 14 Free.",
+          "icone": "https://filmora.wondershare.es/favicon.ico",
+          "url": "https://www.mediafire.com/file/15l6m0z2ool74zj/Wondershare_Filmora_14.2.9.11061.zip/file",
+          "tags": ["vídeo", "edição", "programa","download"]
         },
         {
           "nome": "Pack Edição Vídeo",
