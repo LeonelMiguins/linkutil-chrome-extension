@@ -1,280 +1,292 @@
 [
+   {
+    "nome": "Moewalls",
+    "icone": "https://moewalls.com/wp-content/uploads/2021/05/cropped-moewalls-Icon-192x192.png",
+    "url": "https://moewalls.com/",
+    "descricao": "Wallpappers animados para seu pc.",
+    "tags": ["imagem","utilitário"]
+   },
+   {
+      "nome": "PinterestDownloader",
+      "icone": "https://pinterestdownloader.com/static/img/fevIcon.png",
+      "url": "https://pinterestdownloader.com/pt",
+      "descricao": "Baixe vídeos, imagens e GIFs do Pinterest online.",
+      "tags": ["imagem","utilitário","download"]
+    },
+    {
+      "nome": "Bigjpg",
+      "icone": "https://bigjpg.com/htdocs/favicon.ico",
+      "url": "https://bigjpg.com/",
+      "descricao": "Aumenta a resolução de imagens.",
+      "tags": ["imagem","utilitário"]
+    },
+    {
+      "nome": "Leonardo IA",
+      "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2VKdvsyF9U-401ioSDGsYO6-gTpcikctTw&s",
+      "url": "https://app.leonardo.ai/",
+      "descricao": "Criação de imagens digitais.",
+      "tags": ["imagem","ia"]
+    },
+    {
+    "nome": "Capcut",
+    "icone": "https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/common/images/lv_web.ico",
+    "url": "https://www.capcut.com/",
+    "descricao": "Editor de vídeo online",
+    "tags": ["vídeo","utilitário","edição"]
+    },
+    {
+    "nome": "Pixelverse",
+    "icone": "https://cdn.pixverse.ai/app/app-pixverse/favicon-pixverse.svg",
+    "url": "https://app.pixverse.ai/home",
+    "descricao": "Transforma imagens em vídeo.",
+    "tags": ["vídeo","ia","imagem"]
+    },
+    {
+    "nome": "Pexels",
+    "icone": "https://www.pexels.com/assets/static/images/meta/favicon.ico",
+    "url": "https://www.pexels.com/pt-br/",
+    "descricao": "Imagens e vídeos livres de corpright.",
+    "tags": ["vídeo","Imagem"]
+    },
+    {
+    "nome": "Kling",
+    "icone": "https://p2-kling.klingai.com/kcdn/cdn-kcdn112452/kling-web-aio-prod_aio/favicon.ico",
+    "url": "https://app.klingai.com/global/",
+    "descricao": "Dublagem e clonagem de voz com IA.",
+    "tags": ["vídeo","ia"]
+    },
+    {
+    "nome": "Dzine",
+    "icone": "https://static.dzine.ai/g-favicon-d.ico",
+    "url": "https://www.dzine.ai/home",
+    "descricao": "Criação de personagens com IA.",
+    "tags": ["vídeo", "ia"]
+    },
+    {
+    "nome": "Vidu",
+    "icone": "https://www.vidu.com/logo.svg",
+    "url": "https://www.vidu.com/",
+    "descricao": "Animação de personagens.",
+    "tags": ["vídeo", "ia"]
+    },
+    {
+      "nome": "LTX Studio",
+      "icone": "https://app.ltx.studio/favicon.png",
+      "url": "https://app.ltx.studio/",
+      "descricao": "Criação de filmes completos",
+      "tags": ["vídeo","ia"]
+    },
+    {
+      "nome": "Rei Dos Torrents",
+      "descricao": "Site de torrents com filmes, jogos e mais.",
+      "icone": "https://reidostorrents.com/wp-content/uploads/2018/01/Coroa-Nova.png",
+      "url": "https://reidostorrents.com/",
+      "tags": ["download", "torrent"]
+    },
+    {
+      "nome": "The Pirate Bay",
+      "descricao": "Site de torrents com filmes, jogos e mais.",
+      "icone": "https://torrindex.net/images/tpb.jpg",
+      "url": "https://thepiratebay.org/index.html",
+      "tags": ["download", "torrent"]
+    },
+    {
+      "nome": "Torrent Jogos",
+      "descricao": "Site de torrents com jogos.",
+      "icone": "https://www.torrentjogos.com.br/imagem/favicon-48x48.ico",
+      "url": "https://www.torrentjogos.com.br/",
+      "tags": ["download", "torrent", "jogos"]
+    },
+    {
+      "nome": "Aqui Downloads",
+      "descricao": "Site de torrents com jogos.",
+      "icone": "https://aquidownloads.com.br/wp-content/uploads/2023/03/favicon_AquiDownloads3.png",
+      "url": "https://aquidownloads.com.br/",
+      "tags": ["download", "torrent", "jogos"]
+    },
+    {
+      "nome": "Steam GG",
+      "descricao": "Site de torrents com jogos.",
+      "icone": "https://steamgg.net/wp-content/uploads/2014/02/cropped-result-1-180x180.png",
+      "url": "https://steamgg.net/",
+      "tags": ["download", "torrent", "jogos"]
+    },
+    {
+      "nome": "Photoshop 22 [pro]",
+      "descricao": "Download do Photoshop 22 Free.",
+      "icone": "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg",
+      "url": "https://www.mediafire.com/file/ub3wgj7xic5tk5j/Photoshop_2022.rar/file",
+      "tags": ["imagem", "edição", "programa","download"]
+    },
+          {
+      "nome": "Wondershare Filmora 14 [pro]",
+      "descricao": "Download do Wondershare Filmora 14 Free.",
+      "icone": "https://filmora.wondershare.es/favicon.ico",
+      "url": "https://www.mediafire.com/file/15l6m0z2ool74zj/Wondershare_Filmora_14.2.9.11061.zip/file",
+      "tags": ["vídeo", "edição", "programa","download"]
+    },
+    {
+      "nome": "Pack Edição Vídeo",
+      "descricao": "Pack de 7GB para edição de vídeos.",
+      "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
+      "url": "https://www.mediafire.com/file/qbga2w3tq0d9f71/PACK_DE_EDI%25C3%2587%25C3%2582O_iGust.rar/file",
+      "tags": ["download", "edição", "pack"]
+    },
+    {
+      "nome": "Pack Edição Thumbnail",
+      "descricao": "Pack de elementos para edição de Thumbnail",
+      "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
+      "url": "https://www.mediafire.com/file/d4gieb16rcq4nhp/Thumbnail_Pack.rar/file",
+      "tags": ["download", "edição", "pack"]
+    },
+    {
+    "nome": "Temp Email",
+    "icone": "https://temp-mail.org/images/favicon.ico",
+    "url": "https://temp-mail.org/pt/",
+    "descricao": "E-mails temporários para usar em IAs",
+    "tags": ["utilitário"]
+    },
+    {
+    "nome": "Yt1d",
+    "descricao": "Baixe vídeos do youTube para MP3 e MP4.",
+    "icone": "https://yt1d.com/theme/ssyoutube/pic/logo.png",
+    "url": "https://yt1d.com/pt203/",
+    "tags": ["download", "utilitário","vídeo"]
+    },
+    {
+    "nome": "FDownloader",
+    "descricao": "Baixe vídeos do Reels do Facebook",
+    "icone": "https://fdownloader.net/icons/favicon-32x32.png",
+    "url": "https://fdownloader.net/pt/facebook-reels-downloader",
+    "tags": ["download", "utilitário","vídeo"]
+    },
+    {
+    "nome": "Google Docs",
+    "descricao": "Word, Excel e PowerPoint gratuitos!",
+    "icone": "https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico",
+    "url": "https://docs.google.com/",
+    "tags": ["utilitário"]
+    },
+    {
+    "nome": "Remove BG",
+    "descricao": "Removedor de fundo de imagem",
+    "icone": "https://www.remove.bg/favicon-32x32.png?v=fc0bfce6e1310f1539afec9729716721",
+    "url": "https://www.remove.bg/pt-br/upload",
+    "tags": ["imagem", "utilitário","vídeo"]
+    },
+    {
+    "nome": "SSSinstagram",
+    "descricao": "Download de reels, vídeos e fotos do isntagram",
+    "icone": "https://sssinstagram.com/favicon/favicon-48x48.png",
+    "url": "https://sssinstagram.com/pt/reels-downloader",
+    "tags": ["download", "utilitário","vídeo"]
+    },
+    {
+    "nome": "Gerador de Currículo",
+    "descricao": "Crie lindos currículos gratuitos.",
+    "icone": "https://sssinstagram.com/favicon/favicon-48x48.png",
+    "url": "https://www.todacarreira.com/gerador-de-curriculo/",
+    "tags": ["utilitário"]
+    },
+    {
+    "nome": "Vision Cine",
+    "icone": "https://visioncine-1.com.br/temas/pixer/assets/img/icon.png",
+    "url": "https://visioncine-1.com.br/",
+    "descricao": "Filmes, séries, animes e doramas.",
+    "tags": ["filmes", "entretenimento"]
+    },
+    {
+    "nome": "Wei Fansub",
+    "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvMaFvAwolYSHYC8kW2qpcJYGbKEqqWKxfQ&s",
+    "url": "https://weifansub.com.br/",
+    "descricao": "Downlaod de séries e filmes asiáticos.",
+    "tags": ["filmes", "entretenimento"]
+    },
+    {
+    "nome": "Riff Fusion",
+    "icone": "https://www.riffusion.com/apple-touch-icon.png",
+    "url": "https://www.riffusion.com/",
+    "descricao": "Criação de músicas com IA.",
+    "tags": ["áudio", "ia"]
+    },
+    {
+    "nome": "Udio",
+    "icone": "https://www.udio.com/favicon.ico",
+    "url": "https://www.udio.com/",
+    "descricao": "Criação de músicas e trilhas Sonoras.",
+    "tags": ["áudio", "ia"]
+    },
+    {
+    "nome": "Elleven Labs",
+    "icone": "https://elevenlabs.io/favicon.ico",
+    "url": "https://elevenlabs.io/",
+    "descricao": "Voz realista para vídeos.",
+    "tags": ["áudio", "ia"]
+},
+{
+    "nome": "Suno",
+    "icone": "https://suno.com/favicon.ico",
+    "url": "https://suno.com/home",
+    "descricao": "Criação de músicas com IA.",
+    "tags": ["áudio", "ia"]
+},
+{
+    "nome": "Moises",
+    "icone": "https://storage.googleapis.com/moises-cms/favicon_32x32_95bd3a286e/favicon_32x32_95bd3a286e.png",
+    "url": "https://moises.ai/pt/",
+    "descricao": "Remova vocais e instrumentos de qualquer música.",
+    "tags": ["áudio", "ia"]
+},
+{
+    "nome": "Myinstants",
+    "icone": "https://www.myinstants.com/media/apple-touch-icon-76x76.png",
+    "url": "https://www.myinstants.com/pt/index/br/",
+    "descricao": "Biblioteca gratuita de efeitos sonoros.",
+    "tags": ["áudio", "download"]
+},
+{
+    "nome": "Flaticon",
+    "descricao": "Ícones para edição de imagens ou vídeo",
+    "icone": "https://media.flaticon.com/dist/min/img/favicon.ico",
+    "url": "https://www.flaticon.com/br/",
+    "tags": ["imagem", "edição"]
+},
+{
+    "nome": "Canva",
+    "descricao": "Editor de imagens online",
+    "icone": "https://static.canva.com/static/images/apple-touch-120x120-1.png",
+    "url": "https://www.canva.com/",
+    "tags": ["imagem", "edição"]
+},
+{
+    "nome": "Ideogram",
+    "descricao": "criador de thumbnail para youtube",
+    "icone": "https://ideogram.ai/favicon.png",
+    "url": "https://ideogram.ai/t/explore",
+    "tags": ["imagem", "ia", "utilitário"]
+},
+{
+    "nome": "Piclumen",
+    "icone": "https://www.piclumen.com/wp-content/themes/piclumen/assets/build/images/favicon.svg",
+    "url": "https://www.piclumen.com/",
+    "descricao": "Converta texto em imagens sem esforço",
+    "tags": ["imagem", "ia"]
+},
+{
+    "nome": "RubbrBand",
+    "icone": "https://www.rubbrband.com/favicon.ico",
+    "url": "https://www.rubbrband.com/",
+    "descricao": "Geração de vídeos e imagens grátis.",
+    "tags": ["imagem", "ia", "vídeo"]
+},
+{
+    "nome": "Krea",
+    "icone": "https://www.krea.ai/favicon/favicon-64.png",
+    "url": "https://www.krea.ai/",
+    "descricao": "Criação de imagens digitais.",
+    "tags": ["imagem", "ia"]
+}
 
-      {
-        "nome": "Leonardo IA",
-        "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI2VKdvsyF9U-401ioSDGsYO6-gTpcikctTw&s",
-        "url": "https://app.leonardo.ai/",
-        "descricao": "Criação de imagens digitais.",
-        "tags": ["imagem","ia"]
-      },
-      {
-        "nome": "Capcut",
-        "icone": "https://sf16-web-tos-buz.capcutstatic.com/obj/capcut-web-buz-sg/common/images/lv_web.ico",
-        "url": "https://www.capcut.com/",
-        "descricao": "Editor de vídeo online",
-        "tags": ["vídeo","utilitário","edição","youtube"]
-      },
-      {
-        "nome": "Pixelverse",
-        "icone": "https://cdn.pixverse.ai/app/app-pixverse/favicon-pixverse.svg",
-        "url": "https://app.pixverse.ai/home",
-        "descricao": "Transforma imagens em vídeo.",
-        "tags": ["vídeo","ia","imagem"]
-      },
-      {
-        "nome": "Pexels",
-        "icone": "https://www.pexels.com/assets/static/images/meta/favicon.ico",
-        "url": "https://www.pexels.com/pt-br/",
-        "descricao": "Imagens e vídeos livres de corpright.",
-        "tags": ["vídeo","Imagem"]
-      },
-      {
-        "nome": "Kling",
-        "icone": "https://p2-kling.klingai.com/kcdn/cdn-kcdn112452/kling-web-aio-prod_aio/favicon.ico",
-        "url": "https://app.klingai.com/global/",
-        "descricao": "Dublagem e clonagem de voz com IA.",
-        "tags": ["vídeo","ia"]
-      },
-      {
-        "nome": "Hailuo",
-        "icone": "https://hailuoai.vídeo/assets/logo/favicon.png",
-        "url": "https://hailuoai.vídeo/",
-        "descricao": "Geração de avatares digitais.",
-        "tags": ["vídeo", "ia"]
-      },
-      {
-        "nome": "Dzine",
-        "icone": "https://static.dzine.ai/g-favicon-d.ico",
-        "url": "https://www.dzine.ai/home",
-        "descricao": "Criação de personagens com IA.",
-        "tags": ["vídeo", "ia"]
-      },
-      {
-        "nome": "Vidu",
-        "icone": "https://www.vidu.com/logo.svg",
-        "url": "https://www.vidu.com/",
-        "descricao": "Animação de personagens.",
-        "tags": ["vídeo", "ia"]
-      },
-      {
-        "nome": "LTX Studio",
-        "icone": "https://app.ltx.studio/favicon.png",
-        "url": "https://app.ltx.studio/",
-        "descricao": "Criação de filmes completos",
-        "tags": ["vídeo","ia"]
-      },
+]
 
-        {
-          "nome": "Rei Dos Torrents",
-          "descricao": "Site de torrents com filmes, jogos e mais.",
-          "icone": "https://reidostorrents.com/wp-content/uploads/2018/01/Coroa-Nova.png",
-          "url": "https://reidostorrents.com/",
-          "tags": ["download", "torrent"]
-        },
-        {
-          "nome": "The Pirate Bay",
-          "descricao": "Site de torrents com filmes, jogos e mais.",
-          "icone": "https://torrindex.net/images/tpb.jpg",
-          "url": "https://thepiratebay.org/index.html",
-          "tags": ["download", "torrent"]
-        },
-        {
-          "nome": "Torrent Jogos",
-          "descricao": "Site de torrents com jogos.",
-          "icone": "https://www.torrentjogos.com.br/imagem/favicon-48x48.ico",
-          "url": "https://www.torrentjogos.com.br/",
-          "tags": ["download", "torrent", "jogos"]
-        },
-        {
-          "nome": "Aqui Downloads",
-          "descricao": "Site de torrents com jogos.",
-          "icone": "https://aquidownloads.com.br/wp-content/uploads/2023/03/favicon_AquiDownloads3.png",
-          "url": "https://aquidownloads.com.br/",
-          "tags": ["download", "torrent", "jogos"]
-        },
-        {
-          "nome": "Steam GG",
-          "descricao": "Site de torrents com jogos.",
-          "icone": "https://steamgg.net/wp-content/uploads/2014/02/cropped-result-1-180x180.png",
-          "url": "https://steamgg.net/",
-          "tags": ["download", "torrent", "jogos"]
-        },
-        {
-          "nome": "Photoshop 22 [pro]",
-          "descricao": "Download do Photoshop 22 Free.",
-          "icone": "https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-40.svg",
-          "url": "https://www.mediafire.com/file/ub3wgj7xic5tk5j/Photoshop_2022.rar/file",
-          "tags": ["imagem", "edição", "programa","download"]
-        },
-              {
-          "nome": "Wondershare Filmora 14 [pro]",
-          "descricao": "Download do Wondershare Filmora 14 Free.",
-          "icone": "https://filmora.wondershare.es/favicon.ico",
-          "url": "https://www.mediafire.com/file/15l6m0z2ool74zj/Wondershare_Filmora_14.2.9.11061.zip/file",
-          "tags": ["vídeo", "edição", "programa","download"]
-        },
-        {
-          "nome": "Pack Edição Vídeo",
-          "descricao": "Pack de 7GB para edição de vídeos.",
-          "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
-          "url": "https://www.mediafire.com/file/qbga2w3tq0d9f71/PACK_DE_EDI%25C3%2587%25C3%2582O_iGust.rar/file",
-          "tags": ["download", "edição", "pack"]
-        },
-        {
-          "nome": "Pack Edição Thumbnail",
-          "descricao": "Pack de elementos para edição de Thumbnail",
-          "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PFP411u2e3e4A56cTuPrvlsRcoZx620885UNOxyKG1S7U-icUPtZ6O854bl_PXDgM2I&usqp=CAU",
-          "url": "https://www.mediafire.com/file/d4gieb16rcq4nhp/Thumbnail_Pack.rar/file",
-          "tags": ["download", "edição", "pack"]
-        },
-    {
-        "nome": "Temp Email",
-        "icone": "https://temp-mail.org/images/favicon.ico",
-        "url": "https://temp-mail.org/pt/",
-        "descricao": "E-mails temporários para usar em IAs",
-        "tags": ["utilitário"]
-    },
-    {
-        "nome": "Yt1d",
-        "descricao": "Baixe vídeos do youTube para MP3 e MP4.",
-        "icone": "https://yt1d.com/theme/ssyoutube/pic/logo.png",
-        "url": "https://yt1d.com/pt203/",
-        "tags": ["download", "utilitário","vídeo"]
-    },
-    {
-        "nome": "FDownloader",
-        "descricao": "Baixe vídeos do Reels do Facebook",
-        "icone": "https://fdownloader.net/icons/favicon-32x32.png",
-        "url": "https://fdownloader.net/pt/facebook-reels-downloader",
-        "tags": ["download", "utilitário","vídeo"]
-    },
-    {
-        "nome": "Google Docs",
-        "descricao": "Word, Excel e PowerPoint gratuitos!",
-        "icone": "https://ssl.gstatic.com/docs/documents/images/kix-favicon-2023q4.ico",
-        "url": "https://docs.google.com/",
-        "tags": ["utilitário"]
-    },
-    {
-        "nome": "Remove BG",
-        "descricao": "Removedor de fundo de imagem",
-        "icone": "https://www.remove.bg/favicon-32x32.png?v=fc0bfce6e1310f1539afec9729716721",
-        "url": "https://www.remove.bg/pt-br/upload",
-        "tags": ["imagem", "utilitário","vídeo"]
-    },
-    {
-        "nome": "SSSinstagram",
-        "descricao": "Download de reels, vídeos e fotos do isntagram",
-        "icone": "https://sssinstagram.com/favicon/favicon-48x48.png",
-        "url": "https://sssinstagram.com/pt/reels-downloader",
-        "tags": ["download", "utilitário","vídeo"]
-    },
-    {
-        "nome": "Gerador de Currículo",
-        "descricao": "Crie lindos currículos gratuitos.",
-        "icone": "https://sssinstagram.com/favicon/favicon-48x48.png",
-        "url": "https://www.todacarreira.com/gerador-de-curriculo/",
-        "tags": ["utilitário"]
-    },
-    {
-        "nome": "Vision Cine",
-        "icone": "https://visioncine-1.com.br/temas/pixer/assets/img/icon.png",
-        "url": "https://visioncine-1.com.br/",
-        "descricao": "Filmes, séries, animes e doramas.",
-        "tags": ["filmes", "entretenimento"]
-    },
-    {
-        "nome": "Wei Fansub",
-        "icone": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLvMaFvAwolYSHYC8kW2qpcJYGbKEqqWKxfQ&s",
-        "url": "https://weifansub.com.br/",
-        "descricao": "Downlaod de séries e filmes asiáticos.",
-        "tags": ["filmes", "entretenimento"]
-    },
-    {
-        "nome": "Riff Fusion",
-        "icone": "https://www.riffusion.com/apple-touch-icon.png",
-        "url": "https://www.riffusion.com/",
-        "descricao": "Criação de músicas com IA.",
-        "tags": ["áudio", "ia"]
-    },
-    {
-        "nome": "Udio",
-        "icone": "https://www.udio.com/favicon.ico",
-        "url": "https://www.udio.com/",
-        "descricao": "Criação de músicas e trilhas Sonoras.",
-        "tags": ["áudio", "ia"]
-    },
-    {
-        "nome": "Elleven Labs",
-        "icone": "https://elevenlabs.io/favicon.ico",
-        "url": "https://elevenlabs.io/",
-        "descricao": "Voz realista para vídeos.",
-        "tags": ["áudio", "ia"]
-    },
-    {
-        "nome": "Suno",
-        "icone": "https://suno.com/favicon.ico",
-        "url": "https://suno.com/home",
-        "descricao": "Criação de músicas com IA.",
-        "tags": ["áudio", "ia"]
-    },
-    {
-        "nome": "Moises",
-        "icone": "https://storage.googleapis.com/moises-cms/favicon_32x32_95bd3a286e/favicon_32x32_95bd3a286e.png",
-        "url": "https://moises.ai/pt/",
-        "descricao": "Remova vocais e instrumentos de qualquer música.",
-        "tags": ["áudio", "ia"]
-    },
-    {
-        "nome": "Myinstants",
-        "icone": "https://www.myinstants.com/media/apple-touch-icon-76x76.png",
-        "url": "https://www.myinstants.com/pt/index/br/",
-        "descricao": "Biblioteca gratuita de efeitos sonoros.",
-        "tags": ["áudio", "download"]
-    },
-    {
-        "nome": "Flaticon",
-        "descricao": "Ícones para edição de imagens ou vídeo",
-        "icone": "https://media.flaticon.com/dist/min/img/favicon.ico",
-        "url": "https://www.flaticon.com/br/",
-        "tags": ["imagem", "edição", "programação"]
-    },
-    {
-        "nome": "Canva",
-        "descricao": "Editor de imagens online",
-        "icone": "https://static.canva.com/static/images/apple-touch-120x120-1.png",
-        "url": "https://www.canva.com/",
-        "tags": ["imagem", "edição"]
-    },
-    {
-        "nome": "Ideogram",
-        "descricao": "criador de thumbnail para youtube",
-        "icone": "https://ideogram.ai/favicon.png",
-        "url": "https://ideogram.ai/t/explore",
-        "tags": ["imagem", "ia", "utilitário"]
-    },
-    {
-        "nome": "Piclumen",
-        "icone": "https://www.piclumen.com/wp-content/themes/piclumen/assets/build/images/favicon.svg",
-        "url": "https://www.piclumen.com/",
-        "descricao": "Converta texto em imagens sem esforço",
-        "tags": ["imagem", "ia"]
-    },
-    {
-        "nome": "RubbrBand",
-        "icone": "https://www.rubbrband.com/favicon.ico",
-        "url": "https://www.rubbrband.com/",
-        "descricao": "Geração de vídeos e imagens grátis.",
-        "tags": ["imagem", "ia", "vídeo"]
-    },
-    {
-        "nome": "Krea",
-        "icone": "https://www.krea.ai/favicon/favicon-64.png",
-        "url": "https://www.krea.ai/",
-        "descricao": "Criação de imagens digitais.",
-        "tags": ["imagem", "ia"]
-    }
 
-  ]
-
-  
